@@ -1,2 +1,4 @@
 # DirList
 Directory and File Contents Lister for FLipper Zero Firmware developers. 
+
+Put this file in the directory that you want the contents of. It will make a file called OUTPUT.txt containing a list of every file and folder/subfolder, and then it will add the file contents of all .c, .h, .fam, .py, .scons, and SConstruct that it finds to the output document. This file has been formatted in a way that any AI can understand its contents. If you need to share a lot of files and cant send them in a zip but CAN share .txt files, This is the answer you've been looking for. Attach the OUTPUT.txt file to your AI chat and the AI will have every file in the working directory that it can use. Then simply describe the work you'd like to accomplish to the AI, it will read the OUTPUT file, find the code it needs, and present you with a new and updated version of your old file to download.
